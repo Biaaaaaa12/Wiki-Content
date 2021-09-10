@@ -1,1 +1,24 @@
+/*smooth scrool div*/
+/* extra css not used
+html{
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+}
+*/
 
+<div class="main_smooth_scrool" id="pagecover_smooth_scrool">
+<div class="text_Team_member">
+<h1>Team</h1>
+  <a href="#section2_smooth_scrool"> <div class="button_smooth_scrool"><img src="button_thurga-2.png" ></a></div>
+</div>
+</div>
+
+
+
+
+<div class="main_2_smooth_scrool" id="section2_smooth_scrool">
+
+  <a href="#pagecover_smooth_scrool">Click Me to Smooth Scroll to Section 1 Above</a>
+</div>
+</div>
+/*end of smooth scrool*/
